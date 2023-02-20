@@ -14,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Flutter GetX & Api with GetX
+* [GetX] State management.
+* [GetX] Route management.
+* [GetX] Dependency management.
+* [GetX] BottomSheet.
+* [GetX] Dialog.
+* [GetX] Snackbar.
+
+* [Api With GetX Statment Managment].
+
+* [GetX] Get Example of Rest Api with GetX.
+* [GetX] Post Example of Rest Api with GetX.
+* [GetX] Delete Example of Rest Api with GetX.
+* [GetX] Update Example of Rest Api with GetX.
